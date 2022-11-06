@@ -71,7 +71,7 @@ const About = () => {
         </Grid>
 
         <h4 className='paragraph'>I am very snuggly and loveable! However, I may be nervous and make a mean face. 
-           Please be patient withy me, I miss my mamma and papa! Say a few commands and talk with me while we wait.</h4>
+           Please be patient with me, I miss my mamma and papa! Say a few commands and talk with me while we wait.</h4>
         
 
       
