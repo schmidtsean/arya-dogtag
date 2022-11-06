@@ -6,7 +6,7 @@ import '../Img/arya.jpg';
 const About = () => {
   return (
     <>
-    <img className='background' src={require('../Img/background.JPG')}/> 
+    <img className='background' src={require('../Img/background.JPG')} alt='background3'/> 
    <div className="App">
 
 
@@ -30,14 +30,14 @@ const About = () => {
               <Grid.Column width={4}>
                 <h4 className='numbers'>Orijen
                   <br/>
-                <img className='foodpic1' src={require('../Img/orijen.png')}/> 
+                <img className='foodpic1' src={require('../Img/orijen.png')} alt='orijen'/> 
                   
                 </h4>
               </Grid.Column>
               <Grid.Column width={4} >
                 <h4 className='numbers'>Sojos
                 <br/>
-                <img className='foodpic2' src={require('../Img/sojos.png')}/> 
+                <img className='foodpic2' src={require('../Img/sojos.png')} alt='sojo'/> 
                   
                 </h4>
                 
