@@ -6,7 +6,7 @@ import '../Img/arya.jpg';
 const Home = () => {
   return (
     <>
-    <img className='background' src={require('../Img/background.JPG')}/> 
+    <img className='background' src={require('../Img/background.JPG')} alt='background'/> 
    <div className="App">
 
 
@@ -42,7 +42,7 @@ const Home = () => {
         </Grid>
         </div>
         <div>
-      <img className='photo' src={require('../Img/arya.png')}/>
+      <img className='photo' src={require('../Img/arya.png')} alt='arya'/>
       </div>
       <h3 className='number'>FOR EMERGENCIES, PLEASE CONTACT</h3>
       <h4 className='number'>Avenues Pet Clinic |
